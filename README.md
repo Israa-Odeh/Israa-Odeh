@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="Programmer.gif" alt="A GIF of a programmer">
 <!--
 **Israa-Odeh/Israa-Odeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
