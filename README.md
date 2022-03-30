@@ -5,10 +5,9 @@
   <h2> From others' Perspective: Facts About Me </h2>
   <p> These objective feedbacks were obtained from a small group of trusted people who know me as am I in my best and worst situations.
       
-      I have asked them "Who is Israa?" Can you briefly describe both the positive and negative aspects of my personality?
-    
-      <img src = "Quote_Symbol.png"> A hard worker who accomplishes her tasks very accurately and who focuses on what she is doing, putting all her efforts into achieving the best possible results, but On the other hand, you are hasty in some situations of your life.
-  </p>
+      I have asked them "Who is Israa?" Can you briefly describe both the positive and negative aspects of my personality?  </p>
+      <img src = "Quote_Symbol.png">
+ 
   <h2> My Goals & Vision </h2>
   <h2> Skills </h2>
   <h2> Interests </h2>
