@@ -6,7 +6,7 @@
   <p> These objective feedbacks were obtained from a small group of trusted people who know me as am I in my best and worst situations.
       
       I have asked them "Who is Israa?" Can you briefly describe both the positive and negative aspects of my personality?  </p>
-      <img src = "Quote_Symbol.png">
+     
  
   <h2> My Goals & Vision </h2>
   <h2> Skills </h2>
