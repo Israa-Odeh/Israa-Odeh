@@ -7,7 +7,7 @@
       
       I have asked them "Who is Israa?" Can you briefly describe both the positive and negative aspects of my personality?
     
-      <img src = "Quote Symbol.png"> A hard worker who accomplishes her tasks very accurately and who focuses on what she is doing, putting all her efforts into achieving the best possible results, but On the other hand, you are hasty in some situations of your life.
+      <img src = "Quote_Symbol.png"> A hard worker who accomplishes her tasks very accurately and who focuses on what she is doing, putting all her efforts into achieving the best possible results, but On the other hand, you are hasty in some situations of your life.
   </p>
   <h2> My Goals & Vision </h2>
   <h2> Skills </h2>
