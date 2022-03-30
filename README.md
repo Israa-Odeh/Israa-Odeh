@@ -6,7 +6,7 @@
   <p> These objective feedbacks were obtained from a small group of trusted people who know me as am I in my best and worst situations. 
     
     I have asked them "Who is Israa?" Can you briefly describe both the positive and negative aspects of my personality? </p>
-    <img src="Programmer.gif" alt="A GIF of a programmer">
+    <p align = "center"> <img src="Programmer.gif" alt="A GIF of a programmer" height = "600px"> </p>
  
   <h2> My Goals & Vision </h2>
   <h2> Skills </h2>
