@@ -5,6 +5,8 @@
   <h2> From others' Perspective: Facts About Me </h2>
   <p align = "center"> These objective feedbacks were obtained from a small group of trusted people who know me as am I in my best and worst situations.  <br> <br> <b> I have asked them "Who is Israa?" Can you briefly describe both the positive and negative aspects of my personality? </b> </p>
     <p> <img src="Quote_Symbol.png" alt="An Image of Qoutes' Symbol" width = "20px" height = "16px">  A hard worker who accomplishes her tasks very accurately and who focuses on what she is doing, putting all her efforts into achieving the best possible results, but On the other hand, you are hasty in some situations of your life. (Shahd Ismail) </p>
+  
+  <p> <img src="YellowQuotes.png" alt="An Image of Qoutes' Symbol" width = "20px" height = "16px">  An ambitious person who strives to achieve goals despite obstacles, however, you are a hesitant person with multiple questions going in mind, and I see that you should stop justifying your reasons to the people around you. (Yazeed Odeh) </p>
  
   <h2> My Goals & Vision </h2>
   <h2> Skills </h2>
