@@ -69,7 +69,7 @@
     which could be changed based on my progress in my life, the experiences I pass through, and the knowledge gained in different facets of life. So perhaps as an
     undergraduate I find the following goals most attractive, but in the future, they may be completely different. </p>
   
-  <img src="Border.png" alt="An Image of a seperator line" width = "100%" height = "60px">
+  <img src="Border.png" alt="An Image of a seperator line" width = "100%" height = "100px">
   <p> <img src="Light.png" alt="An Image of Lightbulb Symbol" width = "30px" height = "30px">  Earning my master's degree in battery power consumption enhancements.
   </p>
   
