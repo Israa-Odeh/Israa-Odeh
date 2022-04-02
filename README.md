@@ -13,6 +13,8 @@
   <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%" height = "60px">
    <p> <img src="Quote_Symbol.png" alt="An Image of Qoutes' Symbol" width = "20px" height = "16px">  A diligent student whom I have known from the university, she spends tremendous efforts to reach a place where she could see that her dreams and goals exist. One of them is to graduate with immense familiarity within all areas of her specialization, so she goes through terrible times of pressure to achieve her visualized results, from what I have observed, it seems that even your physical and mental health isn't as important as your studies are to you! I like how you think outside the box, by including so many areas of life in your knowledge, regardless of their direct relationship to your major. It's a pleasure to deal with you since you spread positivity so effectively and you are a cultured student. When you cross over lines, you do not blame others for your failures, but rather deal with their consequences, which makes you a unique human as well as a student. <b> (Yasmeen Sarah - Civil Engineer) </b> </p>
   <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%" height = "60px">
+  <p> <img src="YellowQuotes.png" alt="An Image of Qoutes' Symbol" width = "20px" height = "16px">  My best friend Israa, an ambitious, persistent, hard-working girl, always thoughtful, calm, and likes doing good. <b> (Ruba Ridi - Information Systems Manager) </b> </p>
+    <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%" height = "60px">
  
   <h2> My Goals & Vision </h2>
   <h2> Skills </h2>
