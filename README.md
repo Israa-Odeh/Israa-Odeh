@@ -64,10 +64,10 @@
   <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%" height = "60px">
  
   <h2> My Goals & Vision </h2>
-  <p> <img src="Light.png" alt="An Image of Lightbulb Symbol" width = "35px" height = "35px">  Earning my master's degree in battery power consumption enhancements
+  <p> <img src="Light.png" alt="An Image of Lightbulb Symbol" width = "35px" height = "35px">  Earning my master's degree in battery power consumption enhancements.
   </p>
   
-  <p> <img src="Light.png" alt="An Image of Lightbulb Symbol" width = "35px" height = "35px">  A Ph.D. in a field relevant to the improvement of battery behavior
+  <p> <img src="Light.png" alt="An Image of Lightbulb Symbol" width = "35px" height = "35px">  A Ph.D. in a field relevant to the improvement of battery behavior.
   </p>
   
   <p> <img src="Light.png" alt="An Image of Lightbulb Symbol" width = "35px" height = "35px">  If accepted, contribute yearly to an open-source project through GSoC
