@@ -64,6 +64,10 @@
   <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%" height = "60px">
  
   <h2> My Goals & Vision </h2>
+  <p> As life and experiences sharpen the interests and orientations of each individual, I believe these goals are representative of my current orientation in life,
+    which could be changed based on my progress in my life, the experiences I pass through, and the knowledge gained in different facets of life. So perhaps as an
+    undergraduate I find the following goals most attractive, but in the future, they may be completely different. </p>
+  
   <p> <img src="Light.png" alt="An Image of Lightbulb Symbol" width = "30px" height = "30px">  Earning my master's degree in battery power consumption enhancements.
   </p>
   
