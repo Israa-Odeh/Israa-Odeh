@@ -14,19 +14,27 @@
   <h2> From others' Perspective: Facts About Me </h2>
   <p> These objective feedbacks were obtained from a small group of trusted people who know me as am I in my best and worst situations.  <br> <br> <b> I have asked
     them "Who is Israa?" Can you briefly describe both the positive and negative aspects of my personality? </b> </p>
+  
   <img src="SeperatorLine.png" alt="An Image of a seperator line" width = "100%" height = "150px">
+  
   <p> <img src="YellowQuotes.png" alt="An Image of Qoutes' Symbol" width = "20px" height = "16px"> You are truly distinguished and are always direct and honest with
     the truth, you are kind, you are very diligent in your studies and excel at them with great dedication and persistence, you give yourself ample time to enhance
     your capabilities, anyway, I would mention that you have trouble controlling your nerves at times. <b> (Amal Odeh - Geography Teacher) </b>  </p>
+  
   <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%"  height = "60px">
+  
   <p> <img src="Quote_Symbol.png" alt="An Image of Qoutes' Symbol" width = "20px" height = "16px">  A hard worker who accomplishes her tasks very accurately and who
     focuses on what she is doing, putting all her efforts into achieving the best possible results, but On the other hand, you are hasty in some situations of your
     life. <b> (Shahd Ismail - Computer Engineer) </b> </p>
+  
   <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%" height = "60px">
+  
   <p> <img src="YellowQuotes.png" alt="An Image of Qoutes' Symbol" width = "20px" height = "16px">  An ambitious person who strives to achieve goals despite
     obstacles, however, you are a hesitant person with multiple questions going in mind, and I see that you should stop justifying your reasons to the people around
     you. <b> (Yazeed Odeh - co-owner of a marble and granite factory) </b>  </p>
+  
   <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%" height = "60px">
+  
   <p> <img src="Quote_Symbol.png" alt="An Image of Qoutes' Symbol" width = "20px" height = "16px">  A diligent student whom I have known from the university, she
     spends tremendous efforts to reach a place where she could see that her dreams and goals exist. One of them is to graduate with immense familiarity within all
     areas of her specialization, so she goes through terrible times of pressure to achieve her visualized results, from what I have observed, it seems that even
@@ -35,18 +43,24 @@
     cultured student. When you cross over lines, you do not blame others for your failures, but rather deal with their consequences, which makes you a unique human
     as well as a student. <b> (Yasmeen Sarah - Civil Engineer) </b> </p>
   
-  
-  
-  
    <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%" height = "60px">
-  <p> <img src="YellowQuotes.png" alt="An Image of Qoutes' Symbol" width = "20px" height = "16px">  An ambitious person who strives to achieve goals despite
-    obstacles, however, you are a hesitant person with multiple questions going in mind, and I see that you should stop justifying your reasons to the people around
-    you. <b> (Yazeed Odeh - co-owner of a marble and granite factory) </b>  </p>
+  
+  <p> <img src="YellowQuotes.png" alt="An Image of Qoutes' Symbol" width = "20px" height = "16px">  Beautiful inside and out, kind, like to share what you feel and
+    express what you think, generous, and has the desire to help others even if it is at the cost of your fatigue. I feel that you are a conscious and understanding
+    person who knows what she is doing in her life and likes to work with people in an official manner. You do not like them to become used to you, and do not get
+    used to them excessively. No matter what, you will always be on the right side because you are courageous. Encouragement and motivation from others are
+    invigorating and inspiring to you. You care deeply about studying, and you are very diligent in this regard since you have a goal to achieve in life, and God
+    willing, you will achieve it. You love to be distinguished from others even in your attire. I like many of your qualities, but I dislike some, namely that you
+    sometimes seem rushed, that you can be harsh when you get angry, that you do not have patience in some situations, and that you do not like to discuss some
+    topics, even when you aren't right from others' perspectives, but never mind if you're convenient in what you are doing.
+    you. <b> (Alaa Khuffash - Health Manager) </b> </p>
   
   
   <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%" height = "60px">
+  
   <p> <img src="Quote_Symbol.png" alt="An Image of Qoutes' Symbol" width = "20px" height = "16px">  My best friend Israa, an ambitious, persistent, hard-working
     girl, always thoughtful, calm, and likes doing good. <b> (Ruba Ridi - Information Systems Manager) </b> </p>
+  
   <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%" height = "60px">
  
   <h2> My Goals & Vision </h2>
