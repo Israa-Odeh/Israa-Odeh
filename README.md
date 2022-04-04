@@ -92,7 +92,7 @@
     skillfulness in composing text messages, reports, and other types of documents. </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Leadership: </b> I can supervise and direct my colleagues in
     university. </p>
-  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Effective time-management </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Effective time-management </b> </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Problem-solving </b> </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Creativity </b> </p>
     <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Active listening </b> <br> <br> </p>
