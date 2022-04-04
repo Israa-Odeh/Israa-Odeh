@@ -131,9 +131,7 @@
     company and its returns, and finally a special button for the reports and the statistics about all the previous information with graphical charts and other
     customizations. </p>
   <a href="https://www.youtube.com/watch?v=wacgeA0ONAw&ab_channel=IsraaOdeh" target="_blank"> Click here to watch the demo of this project. </a>
-  
-    <img src="Border.png" alt="An Image of a seperator line" width = "100%" height = "100px">
-  
+  <img src="Border.png" alt="An Image of a seperator line" width = "100%" height = "100px">
   <p> <br> <br> <b> Road To Recovery </b> <br> It is a website that represents a world of ease and technology, which is specially built for addicts who suffer
     and can’t recover from their hard situations, in order to enable them to reserve appointments at different times with a specific psychologist in a trusted
     virtual hub which enables them to connect with physiologists. <br> <br>
