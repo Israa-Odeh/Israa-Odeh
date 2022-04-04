@@ -91,12 +91,13 @@
     written, and visual communication skills as I can speak clearly and concisely, and has the capacity to project positive body language and facial expressions,
     skillfulness in composing text messages, reports, and other types of documents. </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Leadership: </b> I can supervise and direct my colleagues in
+    university. </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Effective time-management </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Problem-solving </b> </p>
-  university. </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Creativity </b> </p>
     <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Active listening </b> </p>
-  <p> <img src="skill.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
+  
+  <p> <img src="skill.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Hard Skills </b> </p>
   
   <h2> Interests </h2>
   <h2> Sample Projects </h2>
