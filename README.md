@@ -121,3 +121,29 @@
   <h2> Tools </h2>
     <img src="Tools.PNG" alt="An Image of tools" width = "915px">
   <h2> Sample Projects </h2>
+  <p> <b> Smooth Wheel </b> <br> Smooth Wheel is a Database Project that is designed by Israa Odeh, and Areen Ateeq as a car rental system to gain the expeced
+    outcomes from the database course. It is a
+    desktop app that represents a world of ease and technology, which is specially built for car Rental Companies administrators, through which
+    administrators can control the renting process smoothly without difficulties by dealing with a group of graphical user interfaces which are Customers’ Interface
+    to add and register the customers and deal with their personal information, Employee’s Interface to add and register all the employees in the company with all
+    their related information, Cars’ Interface to add and register all the cars in the company to have all the required details about them in one place, Rental
+    Interface to rent registered cars for the registered customers, Returned cars Interface to store and select all returned cars to have more control in the
+    company and its returns, and finally a special button for the reports and the statistics about all the previous information with graphical charts and other
+    customizations. </p>
+  <a href="https://www.youtube.com/watch?v=wacgeA0ONAw&ab_channel=IsraaOdeh"> Click here to watch the demo of this project. </a>
+  
+  <p> <b> Road To Recovery </b> <br> Road To Recovery is a website that represents a world of ease and technology, which is specially built for addicts who suffer
+    and can’t recover from their hard situations, in order to enable them to reserve appointments at different times with a specific psychologist in a trusted
+    virtual hub which enables them to connect with physiologists. <br>
+    It is a website that makes a connection between the administrator, addicts, and psychologists through interactive profiles including admin profile which enables
+    the admin to control the system and keep track of it, and the addict profile which enables him/her to keep track of his/her reserved appointments, to reserve
+    new appointments with his/her psychologist, and to contact with this psychologist, and the psychologist profile which enables him/her to keep track of the
+    announced appointments, announce new appointments and view his addicts' list and contact with them easily via their emails.<br>
+    
+    This website is built by Israa Odeh and Areen Ateeq who are computer engineering students at An-Najah National University, we have built it in order to gain the
+    expected outcomes from the web development course, and practice web programming as beginners in this field. </p>
+  
+  
+    <a href="https://www.youtube.com/watch?v=0fRDpI2qgF8"> Click here to watch the demo of this project. </a>
+
+  
