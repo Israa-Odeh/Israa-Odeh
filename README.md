@@ -107,9 +107,9 @@
    SPIM </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Basics of DIP (Digital Image Processing) techniques </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Familiar with basic concepts of networks </p>
-  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Mathematical Skills </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Software Development </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Relational Databases </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Mathematical Skills </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Linux Basic Skills </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Web Development  </p>
 
