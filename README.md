@@ -142,5 +142,10 @@
     This website is built by Israa Odeh and Areen Ateeq who are computer engineering students at An-Najah National University, we have built it in order to gain the
     expected outcomes from the web development course, and practice web programming as beginners in this field. </p>
     <a href="https://www.youtube.com/watch?v=0fRDpI2qgF8" target="_blank"> Click here to watch the demo of this project. </a>
-
+  
+  <h2> Contact Details </h2>
+  <p> <img src="Email.png" alt="An Image indicating email symbol" width = "20px" height = "20px"> <a href="mailto:israa.k.odeh@gmail.com"> Contact me via Hotmail
+    </a> </p>
+  <p> <img src="Gmail.png" alt="An Image indicating gmail symbol" width = "20px" height = "20px"> <a href="mailto:israa.k.odeh@gmail.com"> Contact me via Gmail </a>
+  </p>
   
