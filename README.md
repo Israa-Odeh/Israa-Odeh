@@ -101,15 +101,18 @@
   <p> <img src="skill.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Hard Skills </b> <br> Due to my background in computer
     engineering, I have extensive knowledge of different languages and enjoy problem-solving and programming. Among my other technical skills are the following:
   </p>
+  
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Mathematical Skills </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Software Development </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Relational Databases </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Linux Basic Skills </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Web Development  </p>
-  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Linux Basic Skill </p>
-      <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Basics of Digital Image processing techniques </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Basics of DIP (Digital Image Processing) Techniques </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Familiar with basic concepts of networks </p>
-  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Familiar with low level langauages such as Assembly, MIPS and
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Familiar with low level languages such as Assembly, MIPS and
    SPIM </p>
-    <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Familiar with low level langauages such as Assembly, MIPSand
-    SPIM </b> <br> <br> </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Familiar with HDLs (Hardware Description Languages) such as
+    Verilog and VHDL </p>
   
   <h2> Interests </h2>
   <h2> Sample Projects </h2>
