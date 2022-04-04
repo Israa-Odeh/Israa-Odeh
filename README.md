@@ -81,7 +81,7 @@
   
   <h2> Skills </h2>
   <p> As a computer engineering student, I should have a wide range of skills encompassing both hard and soft skills. I have a lot of skills but have not yet
-    achieved a sufficient level; in this field of study, you will never stop fixedly at a specific stair; you will always be climbing. <br> <br> <br> </p>
+    achieved a sufficient level; in this field of study, you will never stop fixedly at a specific stair; you will always be climbing. <br> <br> </p>
   
   <p> <img src="skill.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Teamwork: </b> Generally, I enjoy working alone, however I
@@ -95,7 +95,7 @@
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Effective time-management </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Problem-solving </b> </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Creativity </b> </p>
-    <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Active listening </b> <br> <br> <br> </p>
+    <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Active listening </b> <br> <br> </p>
   
   <p> <img src="skill.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Hard Skills </b> </p>
   
