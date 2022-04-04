@@ -117,5 +117,5 @@
   <h2> Languages </h2>
   <img src="Languages.PNG" alt="An Image of languages">
   <h2> Tools </h2>
-    <img src="Tools.PNG" alt="An Image of tools" width = "910px">
+    <img src="Tools.PNG" alt="An Image of tools" width = "920px">
   <h2> Sample Projects </h2>
