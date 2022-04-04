@@ -131,7 +131,7 @@
     company and its returns, and finally a special button for the reports and the statistics about all the previous information with graphical charts and other
     customizations. </p>
   <a href="https://www.youtube.com/watch?v=wacgeA0ONAw&ab_channel=IsraaOdeh" target="_blank"> <p> Click here to watch the demo of this project. <br> </p> </a>
-  <img src="SmoothWheel.gif" alt="A GIF of a project" height = "600px">
+  <img src="SmoothWheel.gif" alt="A GIF of a project">
   <img src="Border.png" alt="An Image of a seperator line" width = "100%" height = "100px">
   <p> <br> <br> <b> Road To Recovery </b> <br> It is a website that represents a world of ease and technology, which is specially built for addicts who suffer
     and can’t recover from their hard situations, in order to enable them to reserve appointments at different times with a specific psychologist in a trusted
@@ -143,7 +143,7 @@
     This website is built by Israa Odeh and Areen Ateeq who are computer engineering students at An-Najah National University, we have built it in order to gain the
     expected outcomes from the web development course, and practice web programming as beginners in this field. </p>
   <a href="https://www.youtube.com/watch?v=0fRDpI2qgF8" target="_blank"> <p> Click here to watch the demo of this project. <br> </p> </a>
-  <img src="RoadToRecovery.gif" alt="A GIF of a project" height = "600px">
+  <img src="RoadToRecovery.gif" alt="A GIF of a project">
   
   <h2> Contact Details </h2>
   <p> <img src="Email.png" alt="An Image indicating email symbol" width = "20px" height = "20px"> <a href="mailto:Israa.K.Odeh@hotmail.com"> &nbsp; Contact me via
