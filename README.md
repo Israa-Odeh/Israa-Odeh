@@ -110,8 +110,8 @@
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Software Development </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Relational Databases </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Mathematical Skills </p>
-  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Linux Basic Skills </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Web Development  </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Linux Basic Skills </p>
 
   
   <h2> Interests </h2>
