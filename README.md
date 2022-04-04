@@ -134,7 +134,7 @@
   
   <p> <b> Road To Recovery </b> <br> Road To Recovery is a website that represents a world of ease and technology, which is specially built for addicts who suffer
     and can’t recover from their hard situations, in order to enable them to reserve appointments at different times with a specific psychologist in a trusted
-    virtual hub which enables them to connect with physiologists. <br>
+    virtual hub which enables them to connect with physiologists. <br> <br>
     It is a website that makes a connection between the administrator, addicts, and psychologists through interactive profiles including admin profile which enables
     the admin to control the system and keep track of it, and the addict profile which enables him/her to keep track of his/her reserved appointments, to reserve
     new appointments with his/her psychologist, and to contact with this psychologist, and the psychologist profile which enables him/her to keep track of the
