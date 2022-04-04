@@ -132,7 +132,7 @@
     customizations. </p>
   <img src="SmoothWheel.gif" alt="A GIF of a project">
   <a href="https://www.youtube.com/watch?v=wacgeA0ONAw&ab_channel=IsraaOdeh" target="_blank"> Click here to watch the demo of this project. </a>
-  <img src="Border.png" alt="An Image of a seperator line" width = "100%" height = "100px">
+  <img src="Border.png" alt="An Image of a seperator line" width = "100%">
   <p> <br> <br> <b> Road To Recovery </b> <br> It is a website that represents a world of ease and technology, which is specially built for addicts who suffer
     and can’t recover from their hard situations, in order to enable them to reserve appointments at different times with a specific psychologist in a trusted
     virtual hub which enables them to connect with physiologists. <br> <br>
@@ -142,7 +142,7 @@
     announced appointments, announce new appointments and view his addicts' list and contact with them easily via their emails. <br> <br>
     This website is built by Israa Odeh and Areen Ateeq who are computer engineering students at An-Najah National University, we have built it in order to gain the
     expected outcomes from the web development course, and practice web programming as beginners in this field. </p>
-  <img src="RoadToRecovery.gif" alt="A GIF of a project">
+  <img src="RoadToRecovery.gif" alt="A GIF of a project" width = "100%">
   <a href="https://www.youtube.com/watch?v=0fRDpI2qgF8" target="_blank"> Click here to watch the demo of this project. </a>
   
   <h2> Contact Details </h2>
