@@ -80,5 +80,7 @@
     or other programs. </p>
   
   <h2> Skills </h2>
+  <p> As a computer engineering student, I should have a wide range of skills encompassing both hard and soft skills. I have a lot of skills but have not yet
+    achieved a sufficient level; in this field, you will never stop fixedly at a specific stair; you will always be climbing.</p>
   <h2> Interests </h2>
   <h2> Sample Projects </h2>
