@@ -83,8 +83,16 @@
   <p> As a computer engineering student, I should have a wide range of skills encompassing both hard and soft skills. I have a lot of skills but have not yet
     achieved a sufficient level; in this field of study, you will never stop fixedly at a specific stair; you will always be climbing.</p>
   
-  <p> <img src="skill.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
-  <p> <img src="skill.png" alt="An Image indicating skills Symbol" width = "40px" height = "40px"> <b> Hard Skills </b> </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
+  
+  
+  <p> <img src="Star.png" alt="An Image indicating skills Symbol" width = "40px" height = "40px"> <b> Hard Skills </b> </p>
   
   <h2> Interests </h2>
   <h2> Sample Projects </h2>
