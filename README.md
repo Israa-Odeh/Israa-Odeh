@@ -97,7 +97,9 @@
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Problem-solving </p>
     <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Active Learner </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Creativity <br> <br> </p>
-    <img src="BetweenLineSeperator.png" alt="An Image of a seperator line" width = "100%" height = "60px">
+
+  <img src="Border.png" alt="An Image of a seperator line" width = "100%" height = "100px">
+  
   <p> <img src="skill.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Hard Skills </b> <br> Due to my background in computer
     engineering, I have extensive knowledge of different languages and enjoy problem-solving and programming. Among my other technical skills are the following:
   </p>
