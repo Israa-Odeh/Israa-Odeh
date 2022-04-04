@@ -130,9 +130,9 @@
     Interface to rent registered cars for the registered customers, Returned cars Interface to store and select all returned cars to have more control in the
     company and its returns, and finally a special button for the reports and the statistics about all the previous information with graphical charts and other
     customizations. </p>
-  <img src="SmoothWheel.gif" alt="A GIF of a project">
+  <img src="SmoothWheel.gif" alt="A GIF of a project" width = "100%">
   <a href="https://www.youtube.com/watch?v=wacgeA0ONAw&ab_channel=IsraaOdeh" target="_blank"> Click here to watch the demo of this project. </a>
-  <img src="Border.png" alt="An Image of a seperator line" width = "100%">
+  <img src="Border.png" alt="An Image of a seperator line" width = "100%" height = "100px">
   <p> <br> <br> <b> Road To Recovery </b> <br> It is a website that represents a world of ease and technology, which is specially built for addicts who suffer
     and can’t recover from their hard situations, in order to enable them to reserve appointments at different times with a specific psychologist in a trusted
     virtual hub which enables them to connect with physiologists. <br> <br>
