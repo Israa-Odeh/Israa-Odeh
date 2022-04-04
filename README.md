@@ -85,7 +85,7 @@
   
   <p> <img src="skill.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Teamwork: </b> Generally, I enjoy working alone, however I
-    have participated in many teamwork projects at my university and am aware and appreciative of the value of joining forces and working in partnership with
+    have participated in many teamwork projects at my university and I am aware and appreciative of the value of joining forces and working in partnership with
     others. </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> The ability to communicate clearly: </b>  I have verbal,
     written, and visual communication skills as I can speak clearly and concisely, and has the capacity to project positive body language and facial expressions,
