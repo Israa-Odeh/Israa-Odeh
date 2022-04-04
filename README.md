@@ -84,15 +84,18 @@
     achieved a sufficient level; in this field of study, you will never stop fixedly at a specific stair; you will always be climbing.</p>
   
   <p> <img src="skill.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
-  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> The ability to communicate clearly:  </b> </p>
-  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Teamwork: Generally, I enjoy working alone, however I have
-    participated in many teamwork projects at my university and am aware and appreciative of the value of joining forces and working in partnership with others.</b
-    </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> The ability to communicate clearly: I have verbal, written,
+    and visual communication skills as I can speak clearly and concisely, and has the capacity to project positive body language and facial expressions,
+    skillfulness in composing text messages, reports, and other types of documents. </b> </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Teamwork: </b> Generally, I enjoy working alone, however I
+    have participated in many teamwork projects at my university and am aware and appreciative of the value of joining forces and working in partnership with
+    others. </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Effective time management </p>
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Problem-solving </b> </p>
-  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Leadership: I can supervise and direct my colleagues in
-    university. </b> </p>
-  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Creativity</b> </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Leadership: </b> I can supervise and direct my colleagues in
+    university. </p>
+  <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Creativity </b> </p>
+    <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> <b> Active listening </b> </p>
   
   
   <p> <img src="skill.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
