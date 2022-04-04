@@ -114,5 +114,6 @@
   <p> <img src="Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Linux Basic Skills </p>
 
   
-  <h2> Interests </h2>
+  <h2> Programming Languages </h2>
+  <h2> Tools </h2>
   <h2> Sample Projects </h2>
