@@ -139,11 +139,8 @@
     the admin to control the system and keep track of it, and the addict profile which enables him/her to keep track of his/her reserved appointments, to reserve
     new appointments with his/her psychologist, and to contact with this psychologist, and the psychologist profile which enables him/her to keep track of the
     announced appointments, announce new appointments and view his addicts' list and contact with them easily via their emails.<br>
-    
     This website is built by Israa Odeh and Areen Ateeq who are computer engineering students at An-Najah National University, we have built it in order to gain the
     expected outcomes from the web development course, and practice web programming as beginners in this field. </p>
-  
-  
     <a href="https://www.youtube.com/watch?v=0fRDpI2qgF8"> Click here to watch the demo of this project. </a>
 
   
