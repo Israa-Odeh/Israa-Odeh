@@ -1,5 +1,5 @@
 <h1 align = "center"> <i> "Do not let what you cannot do interfere with what you can do" <i> </h1>
-  <p align = "center"> <img src="Programmer.gif" alt="A GIF of a programmer" height = "600px"> </p>
+  <p align = "center"> <img src="Images/Programmer.gif" alt="A GIF of a programmer" height = "600px"> </p>
   <h2> Who Am I? </h2>
   <p>  A third-year computer engineering student at An-Najah National University, an optimistic Palestinian girl from Nablus with aspirations of freedom from the   
     occupation. Loyal to my home country and constantly striving to be a part of the changes in it, I hope that someday I can raise the name of my country highly 
