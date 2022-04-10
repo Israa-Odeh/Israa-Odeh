@@ -87,7 +87,7 @@
     achieved a sufficient level; in this field of study, you will never stop fixedly at a specific stair; you will always be climbing. <br> <br> </p>
   
   <p> <img src="Images/skill.png" alt="An Image indicating skills symbol" width = "40px" height = "40px"> <b> Soft Skills </b> </p>
-  <p> <img src="Images/Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Teamwork: Generally, I enjoy working alone, however I
+  <p> <img src="Images/Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> Teamwork: Generally, I enjoy working alone, however, I
     have participated in many teamwork projects at my university and I am aware and appreciative of the value of joining forces and working in partnership with
     others. </p>
   <p> <img src="Images/Star.png" alt="An Image indicating skills symbol" width = "20px" height = "20px"> The ability to communicate clearly: I have verbal,
